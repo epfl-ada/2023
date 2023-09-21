@@ -1,6 +1,6 @@
 # 00 - Intro to Tools
 
-This tutorial should get you up and running with your Python environment, plus give you the basics of Jupyter notebooks. Please complete part 1 before the exercise session on Friday, September 23rd. 
+This tutorial should get you up and running with your Python environment, plus give you the basics of Jupyter notebooks. Please complete part 1 before the exercise session on Friday, September 22rd. 
 
 ## Disclaimer - Important
 
@@ -41,8 +41,8 @@ Install it following this download link: [Git](https://git-scm.com/download/win)
 * Clone the tutorials repo into a local folder:
 
 ```
-git clone https://github.com/epfl-ada/2022 ADA2022
-cd ADA2022
+git clone https://github.com/epfl-ada/2023 ADA2023
+cd ADA2023
 ```
 <!-- 
 * or pull new changes if you already have it (from the local folder):
@@ -123,7 +123,7 @@ Please read [this tutorial](good_coding_practices.ipynb).
 
 ## Part 4: Homework 0
 
-Access Homework 0 (OPTIONAL and UNGRADED) [here](https://github.com/epfl-ada/2022/tree/main/Homework/00%20-%20Optional%20Homework). Clone the repo locally and take the opportunity to freshen up your Python skills, or to acquire them.
+Access Homework 0 (OPTIONAL and UNGRADED) [here](https://github.com/epfl-ada/2023/tree/main/Homework/00%20-%20Optional%20Homework). Clone the repo locally and take the opportunity to freshen up your Python skills, or to acquire them.
 
 ## Common issues
 
