@@ -1,4 +1,4 @@
-# 01 - Pandas, Data Wrangling, and Data Viz
+# 02 - Regression Observational Studies Stats and Supervised Learning
 
 In this homework, you will familiarize yourself with *Pandas*, the most popular Python library for handling tabular data. In addition, you will create some basic visualizations. These are among a data scientist's bread and butter -- perfect Homework 1 material!
 
