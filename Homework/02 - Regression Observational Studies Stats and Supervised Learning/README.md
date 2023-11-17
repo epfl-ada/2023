@@ -1,6 +1,6 @@
 # 02 - Regression Observational Studies Stats and Supervised Learning
 
-In this homework, you will familiarize yourself with *Pandas*, the most popular Python library for handling tabular data. In addition, you will create some basic visualizations. These are among a data scientist's bread and butter -- perfect Homework 1 material!
+In this homework, you will work with two popular frameworks: (1) *[sklearn](https://scikit-learn.org/stable/)* (short for scikit-learn) and (2) *[statsmodels](https://www.statsmodels.org/)*. In addition, you will create some basic visualizations to explain your findings. Regression analysis and Supervised learning constitute the two quintessential skills for a data scientist, thereby serving as the perfect material to prepare you for the real world.
 
 The homework tasks are described in the `hw2.ipynb` notebook.
 
