@@ -58,6 +58,7 @@ We allow a grace period of 15 minutes for you to submit your solved IPython note
    *Note-1: If you get a 'You need permission' message, then it means you are trying to access the Google form via a non-EPFL account. This can be fixed by opening the submission link in a private/incognito window and signing in using your EPFL credentials.*   
    *Note-2: You can correct 'typos' in your name using the "edit response" option, however, the uploaded 'ipynb' file cannot be modified. If you need to modify the ‘ipynb’ file, please create a new submission.*   
    *Note-3: Multiple submissions are allowed. We will only consider the **latest** submission before the deadline and ignore all other previous submissions.*
+   *Note-4: Mobile phones will be allowed from 18:15 to 18:30 to allow for two-factor authentication for accessing the Google form submission utility.*   
    * On successful submission, you should receive an acknowledgment email from forms-receipts-noreply@google.com. If you don't receive an acknowledgment email (check your ‘spam’ and ‘junk’ folders as well) by 19:30, please notify us by sending an email to ada-core-assistants-2023@groupes.epfl.ch.
    **We won’t accept email submissions from students with an EPFL email address, thus, make sure you test the submission utility as a part of the exam dry-run (cf. [dry-run instructions](#Dry-run-Instructions) for details).**
 * For students **without** an EPFL email address:
