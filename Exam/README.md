@@ -64,7 +64,7 @@ We allow a grace period of 15 minutes for you to submit your solved IPython note
 * For students **without** an EPFL email address:
    * Your file has to be named (in *titlecase*) as "YourFirstName_YourLastName.ipynb". For example, if your first name is 'Abc', and last name is 'Xyz', please name your file as 'Abc_Xyz.ipynb'.   
    **Note: We won't grade your exam if the file is not properly named, thus, be extra careful in this regard.**   
-   * Send your Jupyter Notebook (1 file) via email to ada-core-assistants-2023@groupes.epfl.ch.
+   * Send your Jupyter Notebook (1 file) via email to ada-core-assistants-2023@groupes.epfl.ch. If you get an error, please instead send the email to akhil.arora@epfl.ch.
 
 ## Dry-run Instructions
 
