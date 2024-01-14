@@ -1,0 +1,6 @@
+Change cell type to code: Y
+Change cell type to Markdown: M
+Insert code cell above: A
+Insert code cell below: B
+Delete cell: D, D 
+Escape the cell editing: ESC
