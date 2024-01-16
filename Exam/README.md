@@ -27,26 +27,27 @@ We allow a grace period of 15 minutes for you to submit your solved IPython note
 ## High-level Guidelines and Rules
 
 1. You cannot leave the room in the first and last 15 minutes.
-2. You should be connected to the EPFL network for the duration of the exam and are not allowed to use VPNs or Hotspots.
-3. You can use all the online resources you want, except for communication tools (emails, web chats, forums, phone, etc.) and AI-powered tools (e.g. ChatGPT, GitHub Copilot, LLMs, etc.) that have the potential to directly give you a solution. We will be monitoring the network for any unusual activity between 15:00 and 18:30.
-4. Announcements during the exam, if any, will be made under the *"Announcements"* section of [this Google document](https://docs.google.com/document/d/e/2PACX-1vTSbODYQJmSJa3j_u_OVK5tc3qW6RNx_kFQVzqXBISfzlGwp2ZSOKbWCWuyyh-kLWyzvYYgXXK2dAz1/pub).   
+2. Once seated, please turn off your mobile phones and place your phones and Camipro cards on the desk. 
+3. You should be connected to the EPFL network for the duration of the exam and are not allowed to use VPNs or Hotspots.
+4. You can use all the online resources you want, except for communication tools (emails, web chats, forums, phone, etc.) and AI-powered tools (e.g. ChatGPT, GitHub Copilot, LLMs, etc.) that have the potential to directly give you a solution. We will be monitoring the network for any unusual activity between 15:00 and 18:30.
+5. Announcements during the exam, if any, will be made under the *"Announcements"* section of [this Google document](https://docs.google.com/document/d/e/2PACX-1vTSbODYQJmSJa3j_u_OVK5tc3qW6RNx_kFQVzqXBISfzlGwp2ZSOKbWCWuyyh-kLWyzvYYgXXK2dAz1/pub).   
    *Note: For sharing documents with more than 100 viewers, Google recommends publishing them to the web (details [here](https://support.google.com/a/users/answer/9308870?hl=en)). As a consequence, the document may no longer be updated in real-time by your Web browser. Thus, in order to view an up-to-date version of the document you might need to periodically refresh the page.*   
-5. You have to open "exam.ipynb" in Jupyter, edit it, and submit a fully run and evaluated notebook with your solutions.
-6. You have *3 hours* (15:15 -- 18:15) to solve the exam and upload your solved iPython (.ipynb) notebook.
-7. We have prepared a conda environment with all the necessary Python packages. If not done already, you can install it with the following command:   
+6. You have to open "exam.ipynb" in Jupyter, edit it, and submit a fully run and evaluated notebook with your solutions.
+7. You have *3 hours* (15:15 -- 18:15) to solve the exam and upload your solved iPython (.ipynb) notebook.
+8. We have prepared a conda environment with all the necessary Python packages. If not done already, you can install it with the following command:   
 `conda env create -f adaexam_crossplatform.yml`
-8. You are allowed to use any built-in Python library that comes with Anaconda.
-9. You are allowed to use [Google Colab](https://colab.research.google.com/) or [EPFL Noto](https://noto.epfl.ch), however, it's your responsibility to ensure that the required Python packages (see the section [Conda environment](#Conda-environment) for details) are accessible in the execution environment and platform of choice.
-10. There are **two tasks:** 1 and 2, which are further split into several subtasks.
-11. The tasks are **independent** of each other, and you can solve them in your order of preference.
-12. For questions containing the **/Discuss:/** prefix, answer not with code, but with a textual explanation (in markdown).
-13. Don't forget to add a textual description of your thought process, the assumptions you made, and your results!
-14. Please write all your comments in English, and use meaningful variable names in your code.
-15. We suggest that you not obsess over small details in the beginning, and try to complete as many tasks as possible during the first 2 hours. Then, go back to the obtained results, write meaningful comments, and debug your code if you have found any glaring mistakes.
-16. Fully read the instructions for each question before starting to solve it to avoid misunderstandings, and remember to save your notebook often!
-17. We will **not run your notebook for you**! Rather, we will grade it as is, which means that only the results contained in your evaluated code cells will be considered, and we will not see the results in unevaluated code cells. Thus, be sure to hand in a **fully run and evaluated notebook**.
-18. In continuation to the previous point, interactive plots, such as those generated using `plotly`, should be **strictly avoided**!
-19. Remember, this is not a homework assignment -- no teamwork allowed!
+9. You are allowed to use any built-in Python library that comes with Anaconda.
+10. You are allowed to use [Google Colab](https://colab.research.google.com/) or [EPFL Noto](https://noto.epfl.ch), however, it's your responsibility to ensure that the required Python packages (see the section [Conda environment](#Conda-environment) for details) are accessible in the execution environment and platform of choice.
+11. There are **two tasks:** 1 and 2, which are further split into several subtasks.
+12. The tasks are **independent** of each other, and you can solve them in your order of preference.
+13. For questions containing the **/Discuss:/** prefix, answer not with code, but with a textual explanation (in markdown).
+14. Don't forget to add a textual description of your thought process, the assumptions you made, and your results!
+15. Please write all your comments in English, and use meaningful variable names in your code.
+16. We suggest that you not obsess over small details in the beginning, and try to complete as many tasks as possible during the first 2 hours. Then, go back to the obtained results, write meaningful comments, and debug your code if you have found any glaring mistakes.
+17. Fully read the instructions for each question before starting to solve it to avoid misunderstandings, and remember to save your notebook often!
+18. We will **not run your notebook for you**! Rather, we will grade it as is, which means that only the results contained in your evaluated code cells will be considered, and we will not see the results in unevaluated code cells. Thus, be sure to hand in a **fully run and evaluated notebook**.
+19. In continuation to the previous point, interactive plots, such as those generated using `plotly`, should be **strictly avoided**!
+20. Remember, this is not a homework assignment -- no teamwork allowed!
 
 ## Submission
 * You will have until 18:30 (strict deadline) to turn in your submission. **Late submissions will not be accepted.**
